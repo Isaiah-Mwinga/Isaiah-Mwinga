@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React and Django projects
 - 🤔 I’m looking for help with design
 - 💬 Ask me about Javascript, Python, React and machine learning
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I can solve a Rubin's cube
 
