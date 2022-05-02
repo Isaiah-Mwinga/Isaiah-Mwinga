@@ -2,16 +2,12 @@
 
 ### I'm a developer, DataScientist and Student
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a React project
-- 🌱 I’m currently learning Firebase
 - 👯 I’m looking to collaborate on React and Django projects
-- 🤔 I’m looking for help with design
 - 💬 Ask me about Javascript, Python, React and machine learning
-- 📫 How to reach me: 
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: I can solve a Rubin's cube
+
+
 
 <a href="https://www.github.com/izzoh-ade" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/izzoh-ade?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
