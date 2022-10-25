@@ -1,11 +1,11 @@
-### Hi there, I'm Mwinga 👋
+### Hi there, I'm  Isaiah Mwinga 👋
 
-### I'm a developer, DataScientist and Student
+### I'm a  a software developer, 
 
 
-- 🔭 I’m currently working on a React project
-- 👯 I’m looking to collaborate on React and Django projects
-- 💬 Ask me about Javascript, Python, React and machine learning
+- 🔭 I’m currently working on a Vue Js/FastAPI project
+- 👯 I’m looking to collaborate on FastAPI projects
+- 💬 Ask me about Javascript, Python, and machine learning
 
 
 
