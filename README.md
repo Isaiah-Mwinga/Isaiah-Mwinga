@@ -3,7 +3,7 @@
 ### I'm a  a software developer, 
 
 
-- 🔭 I’m currently working on a Vue Js/FastAPI project
+- 🔭 I’m currently working on a React Js/FastAPI projects
 - 👯 I’m looking to collaborate on FastAPI projects
 - 💬 Ask me about Javascript, Python, and machine learning
 
